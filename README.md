@@ -1,8 +1,14 @@
 html-skeleton-grunt-sass-livereload
 ===================================
 
-Thanks to Samuel [https://github.com/samwx/] for having made the base model using grunt
+Thanks to [Samuel](https://github.com/samwx/) for having made the [base model using grunt](https://github.com/samwx/html-skeleton)
 
-==> Clone repo
+## Getting Started
+* Clone the git repository — `git clone https://github.com/antinarelli/html-skeleton-grunt-sass-livereload`;
+* Install dependences - `npm install`;
 
-Clone the git repo — `git clone https://github.com/antinarelli/html-skeleton-grunt-sass-livereload`;
+## Using Grunt
+
+In terminal navigate to the repository directory and type `grunt watch`.
+
+Now, just enjoy =)
